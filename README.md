@@ -1,4 +1,6 @@
 # Exp - 3 RAILWAY MANAGEMENT SYSTEM
+## NAME : MANOJ KUMAR N
+## REGISTER NUMBER : 212225230168
 
 # AIM:
 To design and develop UML diagrams for a Railway Management System using StarUML. The diagrams include Use Case Diagram, Class Diagram, Activity Diagram, Sequence Diagram, Communication Diagram, and Package Diagram.
