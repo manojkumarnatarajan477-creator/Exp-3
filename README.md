@@ -1,8 +1,27 @@
 # Exp - 3 RAILWAY MANAGEMENT SYSTEM
 
 # AIM:
+To design and develop UML diagrams for a Railway Management System using StarUML. The diagrams include Use Case Diagram, Class Diagram, Activity Diagram, Sequence Diagram, Communication Diagram, and Package Diagram.
+
 
 # SRS (Procedure):
+## Step 1: Problem Identification
+Manual railway operations such as ticket booking, cancellation, train details checking, and passenger management are time-consuming. The system aims to simplify and manage railway operations efficiently.
+## Step 2: Requirement Analysis
+Identify the main users: Passenger, Ticket Counter, TTR, and Station Head. The system includes ticket booking, ticket cancellation, checking train details, managing passengers, and checking ticket status.
+## Step 3: System Design
+Design the Railway Management System using UML diagrams. Identify classes, objects, activities, and relationships required for the system.
+## Step 4: UML Diagram Creation
+Create the six UML diagrams using StarUML:
+- Use Case Diagram
+- Class Diagram
+- Activity Diagram
+- Sequence Diagram
+- Communication Diagram
+- Package Diagram
+## Step 5: Verification and Result
+Check all six diagrams for correct relationships and connections. Save the completed Railway Management System project in StarUML.
+
 
 # DIAGRAMS:
 (Upload all 6 diagrams)
@@ -43,3 +62,4 @@
 
 
 # RESULT:
+Thus, the Railway Management System was successfully designed using StarUML. All six UML diagrams, namely Use Case, Class, Activity, Sequence, Communication, and Package Diagrams, were created successfully.
